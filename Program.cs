@@ -1,0 +1,1 @@
+﻿GameBoy.PowerOn(args[0]);
